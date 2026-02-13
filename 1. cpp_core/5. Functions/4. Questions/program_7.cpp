@@ -17,7 +17,6 @@ char calculateGrade(int score) {
 
 int main() {
     int score;
-
     cout << "Enter score: ";
     cin >> score;
 
