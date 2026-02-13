@@ -2,7 +2,7 @@
 using namespace std;
 
 // Returns true if age is between 0 and 150 (inclusive)
-bool validateAge(int age) {
+bool ValidateAge(int age) {
     return age >= 0 && age <= 150;
 }
 
@@ -12,7 +12,7 @@ int main() {
     cout << "Enter age: ";
     cin >> age;
 
-    if (validateAge(age)) {
+    if (ValidateAge(age)) {
         cout << "Valid age" << endl;
     } else {
         cout << "Invalid age" << endl;
