@@ -15,7 +15,7 @@ int main ()
 
 #include<iostream>
 using namespace std;
-void change(int& x)     // int&
+void change(int& x)     // int& 
 {
     x = 8;
 }
