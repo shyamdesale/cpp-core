@@ -8,4 +8,5 @@ int main ()
     cout<<s<<endl;
     s.push_back('s');
     cout<<s<<endl;
+    return 0;
 }

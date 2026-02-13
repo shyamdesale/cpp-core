@@ -16,4 +16,5 @@ int main ()
     cout<<"Enter a Number : ";
     cin>>a;
     print (1 , a);
+    return 0;
 }

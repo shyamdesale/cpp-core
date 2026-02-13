@@ -18,4 +18,5 @@ int main()
             cout<<"This is a prime number";
         }
     }
+    return 0;
 }

@@ -4,4 +4,5 @@ int main ()
 {
     string x = "Shyam Desale";
     cout<<x;
+    return 0;
 }

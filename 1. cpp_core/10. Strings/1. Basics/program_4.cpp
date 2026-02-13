@@ -6,4 +6,5 @@ int main ()
     cout<<"Enter a String : ";
     cin>>x;
     cout<<x;
+    return 0;
 }

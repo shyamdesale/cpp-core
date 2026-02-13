@@ -13,4 +13,5 @@ int main()
     {
         cout<<"The given number is not divisible by 5 : ";
     }  
+    return 0;
 }

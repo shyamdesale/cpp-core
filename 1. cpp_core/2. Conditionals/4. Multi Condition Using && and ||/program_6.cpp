@@ -21,4 +21,5 @@ int main()
     {
         cout<<"All three sides are not form a traingle";
     }
+    return 0;
 }

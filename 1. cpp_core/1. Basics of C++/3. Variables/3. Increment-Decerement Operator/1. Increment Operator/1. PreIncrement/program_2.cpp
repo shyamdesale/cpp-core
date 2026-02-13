@@ -7,4 +7,5 @@ int main()
     cout<<x<<endl;
     cout<<++x;
     //This program demonstrates the pre-increment operator in C++, which increases a variable’s value before it is used in an expression.
+    return 0;
 }

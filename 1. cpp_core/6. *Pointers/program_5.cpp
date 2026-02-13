@@ -9,4 +9,5 @@ int maxoftwo(int x , int y)
 int main ()
 {
     cout<<maxoftwo(4,5);
+    return 0;
 }

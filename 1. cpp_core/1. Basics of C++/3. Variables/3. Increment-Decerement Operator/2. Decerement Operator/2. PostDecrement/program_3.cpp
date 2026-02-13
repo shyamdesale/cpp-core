@@ -14,4 +14,5 @@ int main()
     // cout << x << endl; → prints 5.
     // cout << x-- << endl; → prints 5, then x becomes 4.
     // cout << x; → prints the updated value 4.
+    return 0;
 }

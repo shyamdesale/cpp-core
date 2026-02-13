@@ -11,7 +11,7 @@ int main()
     {
         cout<<"Hello World \n";
     }
-    
+    return 0;
 }
 
 /*1️⃣ Initialization — int i = 1

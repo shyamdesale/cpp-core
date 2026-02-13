@@ -13,6 +13,7 @@ int main ()
     cin>>x;
     float y = (float) x; // typecasting
     cout<<"Half of the Number is : "<<y/2;
+    return 0;
 }
 
     // The program takes an integer input x from the user.

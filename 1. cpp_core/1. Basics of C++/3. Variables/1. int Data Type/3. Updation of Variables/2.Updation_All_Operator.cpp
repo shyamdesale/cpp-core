@@ -15,4 +15,5 @@ int main()
     cout<<x<<endl;
     x = x / 3; //Update Value / 3
     cout<<x<<endl;
+    return 0;
 }

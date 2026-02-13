@@ -34,4 +34,5 @@ int main () {
 
     // print final sum
     cout <<"Sum of all elements in given matrix : "<< sum;
+    return 0;
 }

@@ -21,4 +21,5 @@ int main() {
         case 12: cout << "December"; break;
         default: cout << "Invalid month number";
     }
+    return 0;
 }

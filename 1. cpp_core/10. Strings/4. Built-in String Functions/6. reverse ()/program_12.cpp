@@ -19,4 +19,5 @@ int main ()
         j--;
     }
     cout<<s<<endl;
+    return 0;
 }

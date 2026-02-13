@@ -7,4 +7,5 @@ int main ()
     string s = "2435";
     int x = stoi(s);
     cout<<x;
+    return 0;
 }

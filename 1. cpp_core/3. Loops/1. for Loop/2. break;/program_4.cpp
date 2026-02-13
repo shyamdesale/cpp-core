@@ -28,4 +28,5 @@ int main()
     {
         cout << "This is a composite number";
     }
+    return 0;
 }

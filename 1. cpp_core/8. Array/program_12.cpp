@@ -4,6 +4,7 @@ int main ()
 {
     int arr[] = {12 , 442 , 2 , 5 , 23 , 64 , 4 , 7 , 84};
     cout<<sizeof(arr)/4;    // aagar muze array me kitne element hai vo print karna hai to
+    return 0;
 }
 
 // cout<<sizeof(arr)/4; cout print karega sizeof elements for ex : aagar 8 integirs hai to 32 aayega kyu ki har ek element ki

@@ -8,4 +8,5 @@ int main()
     cout<<x;
     //It increases the value of a variable before it is used in an expression.
     // x becomes 6 first, then x = 6
+    return 0;
 }

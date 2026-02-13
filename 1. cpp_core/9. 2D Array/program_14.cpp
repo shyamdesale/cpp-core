@@ -38,4 +38,5 @@ int main ()
 
     // final output
     cout<<"Product of All Element's in Given Matrix : "<<product;
+    return 0;
 }

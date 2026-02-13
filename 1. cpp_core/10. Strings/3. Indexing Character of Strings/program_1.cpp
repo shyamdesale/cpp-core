@@ -4,4 +4,5 @@ int main ()
 {
     string s = "SHYAM";
     cout<<s[0];
+    return 0;
 }

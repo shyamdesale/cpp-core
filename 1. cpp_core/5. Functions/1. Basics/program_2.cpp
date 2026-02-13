@@ -9,4 +9,5 @@ void shyam ()
 int main ()
 {
     shyam ();
+    return 0;
 }

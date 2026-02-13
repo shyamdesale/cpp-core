@@ -25,4 +25,5 @@ int main ()
     cout<<x<<endl;
     change(x);  // pass by refrence
     cout<<x<<endl;
+    return 0;
 }

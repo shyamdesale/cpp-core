@@ -10,4 +10,5 @@ int main()
     cin>>height;
     float area = (base * height) / 2;
     cout<<"Area of Traingle is : "<<area;
+    return 0;
 }

@@ -8,4 +8,5 @@ int main ()
     cout << &x << endl; // Prints the MEMORY ADDRESS of variable x
                         // (&x gives the address, not the value)
                         // Output will look like: 0x7ffeefbff45c (varies every run)
+    return 0;
 }

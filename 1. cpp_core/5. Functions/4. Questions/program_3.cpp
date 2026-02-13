@@ -30,6 +30,7 @@ int main ()
 
     // Print swapped values
     cout << n1 << "  " << n2 << endl;
+    return 0;
 }
 
 /*  Algorithm :

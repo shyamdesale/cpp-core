@@ -16,4 +16,5 @@ int main()
     // cout << x-- << endl; → prints 5, then x becomes 4.
     // cout << x << endl; → prints 4.
     // cout << x--; → prints 4, then x becomes 3.
+    return 0;
 }

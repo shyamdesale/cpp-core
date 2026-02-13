@@ -15,4 +15,5 @@ int main()
     {
         cout<<n<<" : is not a 3 digit number";
     }
+    return 0;
 }

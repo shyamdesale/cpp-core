@@ -17,4 +17,5 @@ int main ()
     // 'i' is still accessible here because it was declared before the loop
     // This prints the value of i after loop ends (which becomes n+1)
     cout << i << endl;
+    return 0;
 }

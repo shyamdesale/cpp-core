@@ -25,4 +25,5 @@ int main()
     {
         cout<<c<<" : is greter than 1nd and 2rd number";
     }
+    return 0;
 }

@@ -43,4 +43,5 @@ int main() {
                 std::cout << "Choose 15 only.\n";
         }
     }
+    return 0;
 }

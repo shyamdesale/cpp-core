@@ -10,4 +10,5 @@ int main()
     cout<<x - y<<endl; //Substraction
     cout<<x * y<<endl; //Multiplication
     cout<<x / y<<endl; //Division
+    return 0;
 }

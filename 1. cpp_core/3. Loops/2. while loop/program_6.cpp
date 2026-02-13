@@ -14,5 +14,5 @@ int main()
         cout<<i<<" ";
         i = i + n;
     }
-    
+    return 0;
 }

@@ -13,4 +13,5 @@ int main()
     cout<<"Enter a name : ";
     cin>>n;
     cout<<fact(n);
+    return 0;
 }

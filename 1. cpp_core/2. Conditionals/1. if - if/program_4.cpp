@@ -20,5 +20,5 @@ int main()
     {
         cout<<"No profit no loss";
     }
-    
+    return 0;
 }

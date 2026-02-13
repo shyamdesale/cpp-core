@@ -15,4 +15,5 @@ int main()
     {
         cout<<"The absolute value is : "<<-n;
     }
+    return 0;
 }

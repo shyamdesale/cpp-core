@@ -15,4 +15,5 @@ int main()
     float perimeter = 2 * (length + breadth);
     cout<<"Perimeter of rectangle is : "<<perimeter<<endl;
     (area > perimeter) ? cout<<"The area of rectangle is greter than its perimeter" : cout<<"The area of rectangle is not greter than its perimeter";
+    return 0;
 }

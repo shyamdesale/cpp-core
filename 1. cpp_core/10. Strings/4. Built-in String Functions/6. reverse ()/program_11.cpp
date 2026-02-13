@@ -7,4 +7,5 @@ int main ()
 
     reverse(s.begin() , s.end());       // start to end tak
     cout<<s<<endl;
+    return 0;
 }

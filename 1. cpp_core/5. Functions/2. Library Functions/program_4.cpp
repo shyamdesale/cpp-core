@@ -36,4 +36,5 @@ int main ()
 
     // nCr formula = n! / (r! * (n-r)!)
     cout<<"Combination (nCr) is : "<<a/(b*c);
+    return 0;
 }

@@ -15,4 +15,5 @@ int main()
     cout<<"Enter Number : ";
     cin>>x;
     cout<<fibo(x);
+    return 0;
 }

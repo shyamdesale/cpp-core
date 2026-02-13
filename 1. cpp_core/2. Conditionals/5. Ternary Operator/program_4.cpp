@@ -8,4 +8,5 @@ int main()
     cout<<"Enter a Number : ";
     cin>>n;
     (n >= 0) ? cout<<"The absolute value is : "<<n : cout<<"The absolute value is : "<<-n;
+    return 0;
 }

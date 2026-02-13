@@ -10,4 +10,5 @@ int main ()
     cout<<"Square Root of "<<a<<" : is "<<sqrt(a)<<endl;  // sqrt is library function
 
     cout<<"Cube Root of "<<a<<" : is "<<cbrt(a)<<endl;  // cbrt is library function
+    return 0;
 }

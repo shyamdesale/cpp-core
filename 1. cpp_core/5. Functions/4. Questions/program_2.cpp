@@ -23,6 +23,7 @@ int main ()
 
     // Print swapped values
     cout << x << "   " << y << endl;
+    return 0;
 }
 
 /*  Swap Two Numbers Without Temporary Variable

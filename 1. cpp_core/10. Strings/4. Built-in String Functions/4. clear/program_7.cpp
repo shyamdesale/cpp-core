@@ -8,4 +8,5 @@ int main ()
     cout<<s.length()<<endl;
     s.clear();
     cout<<s.length()<<endl;     // pure string ke character remove
+    return 0;
 }

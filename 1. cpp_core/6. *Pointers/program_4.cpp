@@ -14,4 +14,5 @@ int main() {
     cout << x << "  " << y << endl;  // Print original values of x and y
     swap(x, y);
     cout << x << "  " << y << endl;  // Print swapped values (won't change with wrong call)
+    return 0;
 }

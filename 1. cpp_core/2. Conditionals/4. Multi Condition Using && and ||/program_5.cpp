@@ -15,4 +15,5 @@ int main()
     {
         cout<<n<<" : is positive number but it is not divisible by 5 or 3";
     }
+    return 0;
 }

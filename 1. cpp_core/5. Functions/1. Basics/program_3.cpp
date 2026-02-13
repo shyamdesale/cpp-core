@@ -15,4 +15,5 @@ int main ()
     cout<<"Hello"<<endl;
     srd ();
     shyam ();
+    return 0;
 }

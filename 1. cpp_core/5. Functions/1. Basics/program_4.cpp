@@ -14,4 +14,5 @@ void srd ()
 int main ()
 {
     srd ();
+    return 0;
 }

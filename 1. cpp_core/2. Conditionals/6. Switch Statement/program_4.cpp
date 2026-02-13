@@ -48,6 +48,7 @@ int main ()
     default:
         cout<<"Invalid Month Number";
     }
+    return 0;
 }
 
     // You used '1', '2', ... '12' (in single quotes) — these are characters, not integers.

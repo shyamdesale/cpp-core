@@ -9,6 +9,7 @@ int main ()
     cin>>ch;
     cout<<"ASCII Value is : ";
     cout<<(int)ch;
+    return 0;
 }
 
 

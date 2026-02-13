@@ -7,4 +7,5 @@ int main()
     float y;
     y = 2.5;
     cout<<x / y; //Division
+    return 0;
 }

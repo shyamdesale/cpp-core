@@ -19,4 +19,5 @@ int main()
     {
         cout<<n<<" : is not a positive number";
     }
+    return 0;
 }

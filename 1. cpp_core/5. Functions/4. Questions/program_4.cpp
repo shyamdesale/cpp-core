@@ -19,4 +19,5 @@ int main()
     cin>>n;
 
     fact(n);
+    return 0;
 }

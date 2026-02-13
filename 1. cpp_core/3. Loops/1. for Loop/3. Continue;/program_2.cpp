@@ -13,4 +13,5 @@ int main()
         if (i == 8) continue;  // skip the number 8
         cout<<i<<" ";
     }
+    return 0;
 }

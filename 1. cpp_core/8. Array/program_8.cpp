@@ -8,6 +8,7 @@ int main ()
     {
         cout<<arr[i]<<"  ";
     }
+    return 0;
 }
 
 //  Is code me decleration or inisilazation ek hi isme ho raha hai is liye arr[] ki size likhne ki jarurat nahi or code work bhi karega

@@ -8,5 +8,6 @@ int main ()
 {
     int x = 53293;
     string s = to_string(x);
-    cout<<s.length();                     
+    cout<<s.length();     
+    return 0;                
 }

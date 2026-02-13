@@ -10,4 +10,5 @@ int main()
     cin>>breadth;
     float perimeter = 2 * (length + breadth);
     cout<<"Perimeter of Rectangle is : "<<perimeter;
+    return 0;
 }

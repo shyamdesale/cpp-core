@@ -7,4 +7,5 @@ int main()
     cout<<x<<endl;
     x = 8; //Update Value
     cout<<x;
+    return 0;
 }

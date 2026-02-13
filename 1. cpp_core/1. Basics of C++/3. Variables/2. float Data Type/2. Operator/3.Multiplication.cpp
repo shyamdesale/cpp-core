@@ -7,4 +7,5 @@ int main()
     float y;
     y = 3.6;
     cout<<x * y; //Multiplication
+    return 0;
 }

@@ -19,4 +19,5 @@ int main ()
         // 5) The % operator only works with integer operands in C++.
         //     ❌ You cannot use % with floating-point numbers like float or double.
         //     10.5 % 3.2;   // ❌ Error!
+    return 0;
 }

@@ -8,4 +8,5 @@ int main ()
     cout<<s<<endl;
     s.append(" desale");
     cout<<s<<endl;
+    return 0;
 }

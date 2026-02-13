@@ -10,4 +10,5 @@ int main()
     // Initial value of x = 5
     // cout << x << endl; → prints 5
     // cout << x--; → prints 5, then x becomes 4
+    return 0;
 }

@@ -15,4 +15,5 @@ int main ()
     {
         cout<<"The given number is Odd Number : ";
     }
+    return 0;
 }

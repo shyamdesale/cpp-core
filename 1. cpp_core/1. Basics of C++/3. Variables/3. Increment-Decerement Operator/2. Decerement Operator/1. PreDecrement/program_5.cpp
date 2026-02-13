@@ -8,4 +8,5 @@ int main()
     cout<<--x<<endl;
     cout<<x<<endl;
     cout<<--x;
+    return 0;
 }

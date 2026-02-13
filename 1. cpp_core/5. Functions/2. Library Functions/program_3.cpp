@@ -15,4 +15,5 @@ int main ()
     cout<<"Minimum of these Two number is : "<< min ( a , b ) <<endl;   // min is library function
 
     cout<<"Power is : "<< pow ( a , b ) <<endl;   // pow is library function
+    return 0;
 }

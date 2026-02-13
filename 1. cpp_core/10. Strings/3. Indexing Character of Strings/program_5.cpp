@@ -16,4 +16,5 @@ int main ()
         }
     }
     cout<<"All the vowel's in the given string is : "<<count;
+    return 0;
 }

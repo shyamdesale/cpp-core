@@ -7,4 +7,5 @@ int main ()
 
     s = "desale " + s;
     cout<<s<<" "<<s.length()<<endl;
+    return 0;
 }

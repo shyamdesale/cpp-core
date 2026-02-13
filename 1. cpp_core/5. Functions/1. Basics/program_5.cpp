@@ -18,4 +18,5 @@ int main ()
     cin>>b;
 
     sum (a , b);
+    return 0;
 }

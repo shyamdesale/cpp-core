@@ -37,4 +37,5 @@ int main() {
     }
 
     cout << "Rectangle Sum = " << sum;
+    return 0;
 }

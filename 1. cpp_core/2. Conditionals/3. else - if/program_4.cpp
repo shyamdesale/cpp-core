@@ -17,4 +17,5 @@ int main ()
     {
         cout<<"30% Discoutn";
     }
+    return 0;
 }

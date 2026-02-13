@@ -6,4 +6,5 @@ int main()
     float breadth = 7;
     float perimeter = 2 * (length + breadth);
     cout<<"Perimeter of Rectangle is : "<<perimeter;
+    return 0;
 }

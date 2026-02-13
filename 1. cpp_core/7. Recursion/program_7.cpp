@@ -17,4 +17,5 @@ int main()
     cout<<"Enter 2nd Number : ";
     cin>>b;
     cout<<power(a , b);
+    return 0;
 }

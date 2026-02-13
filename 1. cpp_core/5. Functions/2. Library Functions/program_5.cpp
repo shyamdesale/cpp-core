@@ -34,4 +34,5 @@ int main ()
 
     // nPr formula = n! / (n-r)!
     cout<<"Permutation (nPr) is : "<<a/b;
+    return 0;
 }

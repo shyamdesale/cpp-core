@@ -11,4 +11,5 @@ int sum (int a , int b)    // int a & int b = formal parameters
 int main ()
 {
     cout<<sum (5 , 9);    // 5 , 9 = actual parameters
+    return 0;
 }

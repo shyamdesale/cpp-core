@@ -12,4 +12,5 @@ int main ()
     reverse(s.begin() + 2, s.begin() + 6);  // reverse index 2 to 5
 
     cout << s << endl;
+    return 0;
 }

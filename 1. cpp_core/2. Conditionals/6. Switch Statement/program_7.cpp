@@ -48,4 +48,5 @@ int main() {
     }
 
     std::cout << "Starting game at level " << level << "\n";
+    return 0;
 }

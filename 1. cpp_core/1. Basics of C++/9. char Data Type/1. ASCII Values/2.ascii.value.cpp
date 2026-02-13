@@ -8,4 +8,5 @@ int main ()
     char ch = (char)x;
     cout<<"char is : ";
     cout<<ch;
+    return 0;
 }

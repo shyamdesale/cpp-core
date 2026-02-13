@@ -22,4 +22,5 @@ int main()
     {
         cout<<"The area of rectangle is not greter than its perimeter";
     }
+    return 0;
 }

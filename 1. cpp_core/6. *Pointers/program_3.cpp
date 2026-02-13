@@ -11,4 +11,5 @@ int main ()
     cout << y << endl;  // Prints the same address stored in y
     cout << x << endl;  // Prints value of x (2)
     cout << *y << endl; // Prints value stored at address y -> also 2
+    return 0;
 }

@@ -7,4 +7,5 @@ int main ()
 
     s = s + " desale";
     cout<<s<<" "<<s.length()<<endl;     // append ke jagha + operator ka bhi use kr sakte hai
+    return 0;
 }

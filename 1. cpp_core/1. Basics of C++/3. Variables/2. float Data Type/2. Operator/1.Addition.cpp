@@ -7,4 +7,5 @@ int main()
     float y;
     y = 1.343;
     cout<<x + y; //Addition
+    return 0;
 }

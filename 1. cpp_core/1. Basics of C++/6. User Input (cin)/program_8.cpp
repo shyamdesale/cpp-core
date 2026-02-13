@@ -9,4 +9,5 @@ int main()
     float cube = n * n * n;
     cout<<"Square is : "<<square<<endl;
     cout<<"Cube is : "<<cube;
+    return 0;
 }

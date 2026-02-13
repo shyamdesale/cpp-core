@@ -12,6 +12,7 @@ int main()
 {
     srd();  // Call the srd() function
     // Program will keep printing "Shyam" endlessly until stack overflow occurs
+    return 0;
 }
 
 /*  Algorithm: Infinite Recursive Print of "Shyam"

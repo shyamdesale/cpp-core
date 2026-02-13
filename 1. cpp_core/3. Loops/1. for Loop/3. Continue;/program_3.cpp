@@ -10,4 +10,5 @@ int main()
         if (i % 2 == 0) continue;
         cout<<i<<" ";
     }
+    return 0;
 }

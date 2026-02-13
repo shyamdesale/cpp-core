@@ -47,4 +47,5 @@ double convertCelsiusToFahrenheit(double celsius) {
 void displayResult(double celsius, double fahrenheit) {
     std::cout << std::fixed << std::setprecision(2);
     std::cout << celsius << " °C = " << fahrenheit << " °F" << std::endl;
+
 }

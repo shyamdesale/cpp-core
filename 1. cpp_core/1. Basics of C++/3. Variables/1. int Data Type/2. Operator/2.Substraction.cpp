@@ -7,4 +7,5 @@ int main()
     int y;
     y = 3;
     cout<<x - y; //Substrication
+    return 0;
 }

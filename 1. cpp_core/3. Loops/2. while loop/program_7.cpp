@@ -18,5 +18,6 @@ int main ()
     {
         cout<<i<<" ";
         i = i + n1;
-    }      
+    }    
+    return 0;  
 }
