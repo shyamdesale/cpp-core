@@ -23,7 +23,6 @@ int main()
     return 0;
 }
 
-
 /*  Algorithm
         Declare an array of 5 integers.
         Initialize each element of the array with a specific value: 6, 3, 7, 2, 8.
