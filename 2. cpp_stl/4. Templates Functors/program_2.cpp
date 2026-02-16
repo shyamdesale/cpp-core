@@ -1,14 +1,15 @@
 #include <iostream>
 using namespace std;
 
-// Define a structure to store employee details
+// Structure to store employee details
 struct node
 {
     string name;
     int salary;
     int age;
 
-    node (name_ , salary_ , age_)
+    // Constructor with proper parameter types
+    node(string name_, int salary_, int age_)
     {
         name = name_;
         salary = salary_;
@@ -18,7 +19,8 @@ struct node
 
 int main()
 {
-    node shyam = new node ("Shyam Desale" , 100000 , 20);
+    // Create object directly (correct way)
+    node shyam("Shyam Desale", 100000, 20);
 
     cout << "Name   : " << shyam.name << endl;
     cout << "Salary : " << shyam.salary << endl;
