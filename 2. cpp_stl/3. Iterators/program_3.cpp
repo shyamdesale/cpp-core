@@ -15,7 +15,7 @@ int main ()
     }
 }
 
-//  Output : 1 3 5 7 9
+//  Output : 9 7 5 3 1
 
 
 #include<iostream>
@@ -33,4 +33,4 @@ int main ()
     }
 }
 
-//  Output : 1 3 5 7 0
+//  Output : 0 7 5 3 1
