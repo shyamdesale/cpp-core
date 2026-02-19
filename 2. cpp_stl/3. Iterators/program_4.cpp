@@ -2,6 +2,7 @@
 
 #include<iostream>
 #include<array>          // add this
+
 using namespace std;
 
 int main ()
