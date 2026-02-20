@@ -23,3 +23,19 @@ int main() {
 
     return 0;
 }
+
+
+#include <iostream>
+#include <vector>
+using namespace std;
+
+int main() {
+    vector<int> vec1(4, 0);      // {0,0,0,0}
+
+    // Copy using iterator range
+    vector<int> vec2(vec1);
+    cout << "vec2: ";
+    for (int x : vec2) cout << x << " ";
+    
+    return 0;
+}
