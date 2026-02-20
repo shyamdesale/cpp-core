@@ -14,4 +14,11 @@ int main ()
     {
         cout << it << " ";
     }
+    cout << endl;
+
+    cout << arr.size() << endl;
+    cout << arr.front() << endl;    //  cout << arr.at(0) << endl;
+    cout << arr.back() << endl;     //  cout << arr.at(4) << endl;
+    
+    return 0;
 }
