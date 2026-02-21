@@ -43,6 +43,11 @@ int main()
         }
         cout << endl;
     }
-    
+
+    // Metadata output
+    cout << "\nTotal Rows: " << shyam.size() << endl;
+    cout << "Elements in Row 0: " << shyam[0].size() << endl;
+    cout << "Elements in Row 1: " << shyam[1].size() << endl;
+
     return 0;
 }
