@@ -1,47 +1,47 @@
 #include <iostream>
 #include <set>
 
+using namespace std;
+
 int main()
 {
     // Read the number of elements to be inserted
-    std::size_t n;
-    std::cin >> n;
+    size_t n;
+    cin >> n;
 
     // Declare a set to store unique integers in sorted (ascending) order
-    std::set<int> st;
+    set<int> st;
 
     // Input loop:
     // Insert each value into the set.
     // The set automatically removes duplicates and maintains sorted order.
-    for (std::size_t i = 0; i < n; ++i)
+    for (size_t i = 0; i < n; ++i)
     {
         int value;
-        std::cin >> value;
+        cin >> value;
         st.insert(value);
     }
 
     // Print all unique elements in ascending order
     for (const int value : st)
     {
-        std::cout << value << " ";
+        cout << value << " ";
     }
-    std::cout << '\n';
+    cout << '\n';
 
-    // Safely remove the smallest element.
-    // st.begin() points to the first (smallest) element in the set.
-    // Always check if the set is not empty before erasing.
+    // Safely remove the smallest element
     if (!st.empty())
     {
         st.erase(st.begin());
     }
 
     // Print the set after removing the smallest element
-    std::cout << "After erase: ";
+    cout << "After erase: ";
     for (const int value : st)
     {
-        std::cout << value << " ";
+        cout << value << " ";
     }
 
-    std::cout << '\n';
+    cout << '\n';
     return 0;
 }
