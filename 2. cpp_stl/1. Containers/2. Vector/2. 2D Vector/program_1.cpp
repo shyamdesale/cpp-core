@@ -8,7 +8,6 @@ using namespace std;
     - Creates a 2D vector using push_back
     - Rows have different sizes (jagged structure)
     - Traverses and prints all elements
-    - Displays row count and column count per row
 */
 
 int main()
@@ -43,6 +42,6 @@ int main()
         }
         cout << endl;
     }
-    
+
     return 0;
 }
