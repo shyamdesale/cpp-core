@@ -12,7 +12,7 @@ int main() {
     v.push_back(30);
 
     cout << "Size after push: " << v.size() << endl;
-
+ 
     v.pop_back();
 
     cout << "Size after pop: " << v.size() << endl;
