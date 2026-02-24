@@ -6,4 +6,6 @@ int main ()
 {
     string s = "SHYAM";
     cout<<s.length();
+
+    return 0;
 }
