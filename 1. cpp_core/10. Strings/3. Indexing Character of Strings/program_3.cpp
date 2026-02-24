@@ -8,5 +8,6 @@ int main ()
     cout<<s<<endl;
     s[1] = s[2] = 'A';
     cout<<s<<endl;
+    
     return 0;
 }
