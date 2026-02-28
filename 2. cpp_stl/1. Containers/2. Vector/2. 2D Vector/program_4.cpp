@@ -37,6 +37,5 @@ int main()
         }
         cout << endl;  // Move to next line after each row
     }
-
     return 0;
 }
