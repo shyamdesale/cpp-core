@@ -10,7 +10,6 @@ int main() {
     while (!v.empty() && v.back() > 50) {
         v.pop_back();
     }
-
     cout << "Vector after removing from end: ";
     for (int x : v)
         cout << x << " ";
@@ -43,7 +42,6 @@ int main() {
                   [](int x) { return x > 50; }),
         v.end()
     );
-
     cout << "Vector after removing all > 50: ";
     for (int x : v)
         cout << x << " ";
@@ -85,7 +83,6 @@ int main() {
     for (int i = 1; i <= 10; i++) {
         v.push_back(i);
     }
-
     cout << "Size: " << v.size() << endl;
     cout << "Capacity: " << v.capacity() << endl;
 }
