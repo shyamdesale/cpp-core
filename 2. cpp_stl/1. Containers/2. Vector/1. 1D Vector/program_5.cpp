@@ -14,7 +14,6 @@ int main() {
 
     // Undo last operation
     history.pop_back();
-
     cout << "After Undo: " << history.back() << endl;
 }
 
