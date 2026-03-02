@@ -20,6 +20,5 @@ int main()
         }
         cout << '\n';  // Separate each 2D layer
     }
-
     return 0;
 }
