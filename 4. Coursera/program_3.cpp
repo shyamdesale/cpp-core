@@ -16,5 +16,6 @@ int main() {
         char letter = 'C';
         int letterValue = static_cast<int>(letter);
         std::cout << "Character '" << letter << "' has ASCII value: " << letterValue << std::endl;
+        
         return 0;
 }
