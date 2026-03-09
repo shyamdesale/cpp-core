@@ -1,0 +1,16 @@
+#include <iostream>
+#include <queue>
+using namespace std;
+
+int main() {
+
+    priority_queue<int, vector<int>, greater<int>> pq;
+
+    pq.push(10);
+    pq.push(5);
+    pq.push(20);
+
+    cout << "Top element: " << pq.top(); // smallest element
+
+    return 0;
+}
