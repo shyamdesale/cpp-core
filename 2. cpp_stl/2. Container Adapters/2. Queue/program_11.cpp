@@ -22,7 +22,6 @@ int main() {
     q.pop();
 
     cout << "Front after pop: " << q.front() << endl;
-
     cout << "Queue size: " << q.size() << endl;
 
     return 0;
