@@ -12,7 +12,7 @@ int main() {
     cout << arr.size() << endl;   // 2
 
     arr.pop_back();               // {0}
-    cout << arr.size() << endl;   // 1
+    cout << arr.size() << endl;   // 19
 
     arr.push_back(0);             // {0, 0}
     arr.push_back(2);             // {0, 0, 2}
